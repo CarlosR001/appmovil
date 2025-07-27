@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269680952380",
+    "project_id": "citasappv2",
+    "storage_bucket": "citasappv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269680952380:android:1a9ccf0bba2e3bb79f2f39",
+        "android_client_info": {
+          "package_name": "com.carlos.movilwordkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDp_38Z00r3LYBXk2C-Nkeurs6LgIYOl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
